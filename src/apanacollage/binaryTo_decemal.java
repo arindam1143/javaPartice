@@ -28,10 +28,10 @@ public class binaryTo_decemal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int res=BinToDec(110);
-		System.out.print(res);
+		//int res=BinToDec(110);
+		//System.out.print(res);
 		System.out.println();
-		System.out.print(DecToBin(10));
+		System.out.print(DecToBin(4));
 
 	}
 
