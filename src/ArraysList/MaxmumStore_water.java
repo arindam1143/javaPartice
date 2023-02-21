@@ -40,15 +40,15 @@ public class MaxmumStore_water {
 		// TODO Auto-generated method stub
 		ArrayList<Integer> list=new ArrayList<>();
 		//1,8,6,2,5,4,8,3,7
-		list.add(1);
-		list.add(8);
-		list.add(6);
-		list.add(2);
 		list.add(5);
-		list.add(4);
-		list.add(8);
+		list.add(2);
 		list.add(3);
 		list.add(7);
+		list.add(1);
+		list.add(3);
+		/*list.add(8);
+		list.add(3);
+		list.add(7);*/
 		System.out.println("this is burte force approach  "+storeWater(list));
 		System.out.println(Storewater(list));
 	}
